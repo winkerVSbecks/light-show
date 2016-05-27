@@ -1,0 +1,15 @@
+body {
+  background-color: #e4f0ff;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  width: 100vw;
+}
+
+svg {
+  left: 50%;
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  transform: translate3d(-50%, -50%, 0);
+}
